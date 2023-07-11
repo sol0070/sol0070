@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @sol0070
-- 👀 I’m interested in ...
 - 🌱 I’m currently learning ...android development!
 - 💞️ I’m looking to collaborate on ...tidbyt projects
 - 📫 How to reach me ...solomonlin0070@gmail.com
